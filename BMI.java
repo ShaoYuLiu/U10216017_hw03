@@ -9,7 +9,7 @@ public class BMI extends JFrame{
 	JTextField jftHeight = new JTextField(6);
 	JTextField jftWeight = new JTextField(6);
 	JTextField jftResult = new JTextField(24);
-	JButton jbtBMI = new JButton("ºâ¥X§AªºBMI­È");
+	JButton jbtBMI = new JButton("ï¿½ï¿½ï¿½Xï¿½Aï¿½ï¿½BMIï¿½ï¿½");
 	
 	public BMI(){
 	// Create a JPanel which names abc to hold the JTextField and JLabel
@@ -52,7 +52,7 @@ public class BMI extends JFrame{
 		}
 	}
 	
-	
+	//gggggg
 	public static void main(String[] args){
 		JFrame frame = new BMI();
 		frame.setTitle("BMI");
